@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\加密解密\\RSA\\RSA\\RSA.csproj": {}
+    "F:\\C#\\加密解密\\RSA\\RSA.csproj": {}
   },
   "projects": {
-    "F:\\C#\\加密解密\\RSA\\RSA\\RSA.csproj": {
+    "F:\\C#\\加密解密\\RSA\\RSA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\加密解密\\RSA\\RSA\\RSA.csproj",
+        "projectUniqueName": "F:\\C#\\加密解密\\RSA\\RSA.csproj",
         "projectName": "RSA",
-        "projectPath": "F:\\C#\\加密解密\\RSA\\RSA\\RSA.csproj",
+        "projectPath": "F:\\C#\\加密解密\\RSA\\RSA.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\加密解密\\RSA\\RSA\\obj\\",
+        "outputPath": "F:\\C#\\加密解密\\RSA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
